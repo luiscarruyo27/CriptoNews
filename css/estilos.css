@@ -1,0 +1,55 @@
+.parallax-completo{
+   
+    /* height: 100vh;*/
+     background-image: url(../img/fondocripto2.jpg) ;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-attachment: fixed ;
+     background-repeat: no-repeat;
+     display: flex;
+}
+.parallax-completo2{
+    
+     background-image: url(../img/fondocripto.jpg) ;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-attachment: fixed ;
+     background-repeat: no-repeat;
+     display: flex;
+}
+
+.parallax-completo3{
+   
+     background-image: url(../img/criptomon.png) ;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-attachment: fixed ;
+     background-repeat: no-repeat;
+     display: flex;
+}
+
+.parallax-completo4{
+     
+     background-image: url(../img/cripto1.jpg) ;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-attachment: fixed ;
+     background-repeat: no-repeat;
+     display: flex;
+}
+.parallax-completo5{
+
+     background-image: url(../img/fondo22.jpg) ;
+     background-position: 50% 50%;
+     background-size: cover;
+     background-attachment: fixed ;
+     background-repeat: no-repeat;
+     display: flex;
+    
+    
+}
+@media(max-width:320px){
+     .d{
+          width: 100px;
+     }
+}
